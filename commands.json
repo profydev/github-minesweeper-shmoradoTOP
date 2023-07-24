@@ -20,6 +20,10 @@
     "Clear F7",
     "Clear E7",
     "Clear D6",
-    "Clear D7"
+    "Clear D7",
+    "Flag A7",
+    "Clear A8",
+    "Clear G8",
+    "Flag H8"
   ]
 }
